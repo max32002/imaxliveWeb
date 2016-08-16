@@ -1,0 +1,75 @@
+﻿@import url("reset.css");
+
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif, 微軟正黑體;
+    font-size: 15px;
+    line-height: 1.6;
+    color:#333
+}
+
+p {
+    padding: 10px;
+}
+
+h1 {
+    font-size: 2.4rem;
+}
+
+h2 {
+    font-size: 1.4rem;
+    vertical-align: top;
+}
+
+h1, h2, h3 {
+    line-height: 1.2em;
+    font-weight: 300;
+    padding: 0 0 0 1.2em;
+}
+
+hr {
+    height: 1px;
+    color: #d0d0d0;
+    background: #d0d0d0;
+    font-size: 0;
+    border: 0;
+}
+
+.updatetime {
+    font-size: 11px;
+    color: #999;
+    text-align: right;
+}
+
+#wrapper {
+    margin: 0 auto;
+    width: 94%;
+}
+
+#contentwrap {
+    width: 100%;
+    float: left;
+    margin: 0 auto;
+}
+
+#content {
+    background: #FFFFFF;
+    border-radius: 10px;
+    border: 1px solid #dbdbdb;
+    margin: 5px;
+}
+
+#footerwrap {
+    width: 100%;
+    float: left;
+    margin: 0 auto;
+    clear: both;
+}
+
+#footer {
+    height: 40px;
+    background: #EBE8E6;
+    border-radius: 10px;
+    border: 1px solid #d7d4d2;
+    margin: 5px;
+}
+
